@@ -1,0 +1,15 @@
+:root{
+
+    --main-color: #1ec2b7;
+    --dark-color: #00fffb;
+    --contrast-color: #de980a;
+   }
+   .bg-color-dark{
+    background-color: var(--main-color);
+   }
+   .p-bold{
+    font-weight: bold;
+   }
+   .color-dark{
+    color: var(--dark-color);
+   }
